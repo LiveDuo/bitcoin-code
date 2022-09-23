@@ -14,4 +14,4 @@ signed_txn = txnUtils.makeSignedTransaction(privateKey,
         )
     
 txnUtils.verifyTxnSignature(signed_txn)
-print 'SIGNED TXN', signed_txn
+print('SIGNED TXN', signed_txn)
