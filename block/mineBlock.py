@@ -1,6 +1,5 @@
 import hashlib
 import struct
-import time
 
 
 # block 272784

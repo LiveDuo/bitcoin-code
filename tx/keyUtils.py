@@ -4,9 +4,6 @@ import ecdsa.der
 import ecdsa.util
 import hashlib
 import unittest
-import random
-import re
-import struct
 
 import utils
 
